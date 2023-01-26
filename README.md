@@ -1,1 +1,1 @@
-# singtelcaf
+# Test repository for  SingTel CAF
