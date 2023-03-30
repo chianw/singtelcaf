@@ -10,4 +10,4 @@ To run the code, replace client_id , client_secret and tenant_id in providers.tf
 
 The permissions required by the service principal identity assumed by TF are below
 
-![tf-app-permissons.png](https://github.com/chianw/chianw/blob/main/tf-app-permissons.png)
+![tf-app-permissions.png](https://github.com/chianw/chianw/blob/main/tf-app-permissions.png)
