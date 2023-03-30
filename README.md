@@ -9,3 +9,5 @@ This is a sample code where Terraform assumes the identity of an application giv
 To run the code, replace client_id , client_secret and tenant_id in providers.tf with the correct values in your environment.
 
 The permissions required by the service principal identity assumed by TF are below
+
+![tf-app-permissons.png](https://github.com/chianw/chianw/blob/main/tf-app-permissons.png)
